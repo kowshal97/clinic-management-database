@@ -41,8 +41,10 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 This repository is intentionally simple, containing the **PowerPoint presentation** as the main deliverable.  
 For recruiters and reviewers: please see the presentation file above for complete details of the case study.
 
-## 📸 Screenshots
-*(Add your screenshots into a `screenshots/` folder and they will render automatically here)*  
 
-- **ERD Diagram**  
-  ![ERD](./screenshots/Entity Relationship model.png)
+## 📸 Screenshots
+- **ERD**  
+  ![ERD](./diagrams/Entity%20Relationship%20model.png)
+
+- **Logical Model**  
+  ![Logical Model](./diagrams/logical%20model.png)
