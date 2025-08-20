@@ -45,4 +45,4 @@ For recruiters and reviewers: please see the presentation file above for complet
 *(Add your screenshots into a `screenshots/` folder and they will render automatically here)*  
 
 - **ERD Diagram**  
-  ![ERD](./screenshots/ERD.png)
+  ![ERD](./screenshots/Entity Relationship model.png)
