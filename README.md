@@ -21,7 +21,12 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 - **Database Design**: ERD, logical and physical models  
 - **SQL Implementation**: Aurora PostgreSQL with pgAdmin/pgweb  
 - **NoSQL Implementation**: Amazon DynamoDB with typed JSON data  
-- **Security & Backup**: RDS snapshots, DynamoDB backups, and recovery strategies  
+- **Security & Backup**: RDS snapshots, DynamoDB backups, and recovery strategies
+
+- ## 📸 Screenshots
+
+[ERD Diagram](./diagrams/Entity%20Relationship%20model.png)  
+[Logical Model](./diagrams/logical%20model.png)
 
 ---
 
@@ -40,6 +45,8 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 ## 🙌 Notes
 This repository is intentionally simple, containing the **PowerPoint presentation** as the main deliverable.  
 For recruiters and reviewers: please see the presentation file above for complete details of the case study.
+
+## 📸 Screenshots
 
 [ERD Diagram](./diagrams/Entity%20Relationship%20model.png)  
 [Logical Model](./diagrams/logical%20model.png)
