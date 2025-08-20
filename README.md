@@ -26,7 +26,8 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 ---
 
 ## 🛠️ Tech Stack
+- **AWS**
 - **PostgreSQL (Aurora RDS)**  
 - **Amazon DynamoDB**  
 - **pgAdmin / pgweb**  
-- **AWS Backup & Security tools**  
+- **Backup & Security tools**  
