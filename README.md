@@ -5,9 +5,9 @@ Clinic Management Database Project (ERD, SQL, DynamoDB, Security & Backups)
 This repository contains my **Database Project** for a **Clinic Management System**.
 
 ---
+## 📂 Deliverable
+- [📥 Download Presentation (PPTX)](https://github.com/kowshal97/clinic-management-database/raw/main/Clinic_Database.pptx)
 
-## 📂 Deliverable## 📂 Deliverable
-- [📥 Download Presentation (PPTX)](./Clinic_Database.pptx?raw=true)
 
 
 ---
