@@ -1,3 +1,10 @@
+
+# Online Retail Store – Database
+
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Modeling](https://img.shields.io/badge/ERD-Logical%20%7C%20Physical-purple)
+
 # clinic-management-database
 
 Clinic Management Database Project (ERD, SQL, DynamoDB, Security & Backups)
