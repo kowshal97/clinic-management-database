@@ -46,8 +46,4 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 This repository is intentionally simple, containing the **PowerPoint presentation** as the main deliverable.  
 For recruiters and reviewers: please see the presentation file above for complete details of the case study.
 
-## 📸 Screenshots
-
-[ERD Diagram](./diagrams/Entity%20Relationship%20model.png)  
-[Logical Model](./diagrams/logical%20model.png)
 
