@@ -44,7 +44,8 @@ For recruiters and reviewers: please see the presentation file above for complet
 
 ## 📸 Screenshots
 - **ERD**  
-  ![ERD](./diagrams/Entity%20Relationship%20model.png)
+  [![ERD](./diagrams/Entity%20Relationship%20model.png)](./diagrams/Entity%20Relationship%20model.png)
 
 - **Logical Model**  
-  ![Logical Model](./diagrams/logical%20model.png)
+  [![Logical Model](./diagrams/logical%20model.png)](./diagrams/logical%20model.png)
+
