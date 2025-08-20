@@ -4,7 +4,8 @@ Clinic Management Database Project (ERD, SQL, DynamoDB, security &amp; backups)
 This repository contains my **Database Project** for a **Clinic Management System**.
 
 ## 📂 Deliverable
-- **Presentation:** [Clinic_Database.pptx](Case%20Study_Database.pptx)
+- Presentation: [Clinic_Database.pptx](./Clinic_Database.pptx)
+
 
 ## 📌 Overview
 The project covers:
