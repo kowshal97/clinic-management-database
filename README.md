@@ -30,4 +30,13 @@ It covers both **relational (SQL)** and **non-relational (NoSQL)** approaches, a
 - **PostgreSQL (Aurora RDS)**  
 - **Amazon DynamoDB**  
 - **pgAdmin / pgweb**  
-- **Backup & Security tools**  
+- **Backup & Security tools**
+
+## 🔗 Related Work
+- **Cloud Project:** [My Cloud Project](https://github.com/kowshal97/cloud-project-eportfolio)
+
+---
+
+## 🙌 Notes
+This repository is intentionally simple, containing the **PowerPoint presentation** as the main deliverable.  
+For recruiters and reviewers: please see the presentation file above for complete details of the case study.
