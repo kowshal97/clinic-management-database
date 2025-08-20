@@ -7,7 +7,8 @@ This repository contains my **Database Project** for a **Clinic Management Syste
 ---
 
 ## 📂 Deliverable
-- Presentation: [Clinic_Database.pptx](./Clinic_Database.pptx)
+- [📥 Download Presentation (PPTX)](./Clinic_Database.pptx?raw=true)
+
 
 ---
 
